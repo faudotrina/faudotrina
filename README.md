@@ -1,12 +1,10 @@
 
-<!--  https://faudotrina.github.io/portfolio/  -->
+<!--  faudotrina portfolio  -->
 <p align="center">
- 
-</p align="center">
 <img src="https://github.com/faudotrina/faudotrina/blob/main/images/city.gif" />
+</p align="center">
 
 <p align="center">
- 
  <img src="https://badges.pufler.dev/visits/faudotrina/faudotrina"/> 
  <img src="https://badges.pufler.dev/repos/faudotrina"/>
  <img src="https://badges.pufler.dev/commits/monthly/faudotrina" />
@@ -14,7 +12,7 @@
 
 <h2 align="center">Technology Stack </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="70"/>
 <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
@@ -24,7 +22,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" width="70"/>
 <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 </p>
@@ -35,12 +33,11 @@
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
 <p align="center">
-
 <a href="mailto: faudot.rina@yahoo.fr.com">
  <img src="https://img.shields.io/badge/-faudot.rina-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faudot.rina@yahoo.fr.com"/>
 </a>
+ 
 <a href="https://www.linkedin.com/in/faudotrina/">
  <img src="https://img.shields.io/badge/-faudotrina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faudotrina/"/>
 </a>
