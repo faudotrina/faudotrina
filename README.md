@@ -34,8 +34,8 @@
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 <p align="center">
-<a href="mailto: faudot.rina@yahoo.fr.com">
- <img src="https://img.shields.io/badge/-faudot.rina-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faudot.rina@yahoo.fr.com"/>
+<a href="mailto: faudot.rina@yahoo.fr">
+ <img src="https://img.shields.io/badge/-faudot.rina-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faudot.rina@yahoo.fr"/>
 </a>
  
 <a href="https://www.linkedin.com/in/faudotrina/">
