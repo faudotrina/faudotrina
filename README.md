@@ -52,15 +52,12 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=faudotrina&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=faudotrina&hide=html,css,javascript,python,shaderlab,kotlin,hlsl&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=faudotrina&show_icons=true&locale&theme=nightowl">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=faudotrina&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=faudotrina&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
 </p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=faudotrina&theme=redical">
-</p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
